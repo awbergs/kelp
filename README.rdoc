@@ -1,0 +1,15 @@
+== README
+
+Skeleton application starter.
+
+* Ruby 2.1.2
+
+* Rails 4.2
+
+* Ember 2.4
+
+* Postgresql
+
+* Rspec
+
+* Devise
